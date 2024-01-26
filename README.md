@@ -15,7 +15,7 @@ This repository adopts an upward approach to implement neural network functions,
 ## Getting Started:
 
 To get started, clone the repository and explore the well-documented codebase. Feel free to contribute and enhance the functionalities.  
-Please read the CONTRIBUTING.md to know more.
+Please read the [CONTRIBUTING.md](https://github.com/kausthub-kannan/neural-scratch/blob/main/CONTRIBUTING.md) to know more.
 
 ## Goals:
 
