@@ -15,7 +15,7 @@ def f1_score(y_true, y_pred):
 
     return f1
 
-# Example usage
+# Example usage to demo
 y_true = np.array([1, 0, 1, 1, 0, 1])
 y_pred = np.array([1, 0, 1, 0, 0, 1])
 
